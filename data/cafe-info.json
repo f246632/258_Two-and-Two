@@ -1,0 +1,66 @@
+{
+  "name": "Two and Two",
+  "tagline": "French Pastries & Japanese Stationery",
+  "category": "Coffeeshop & Papeterie",
+  "description": "A unique Franco-Japanese café created by Eri from Tokyo and Tose from Paris. Two and Two offers authentic French pastries, artisanal coffee, and an exclusive selection of Japanese stationery in a cozy, modern setting in Berlin-Neukölln.",
+  "story": "Two and Two was born from the friendship of two creative women with a shared passion for quality and aesthetics. Eri brings the precision and beauty of Japanese design and stationery culture, while Tose contributes the rich tradition of French patisserie. Together, they've created a unique space where coffee culture, artisanal food, and beautiful design objects meet.",
+  "contact": {
+    "address": {
+      "street": "Pannierstraße 6",
+      "postal_code": "12047",
+      "city": "Berlin",
+      "district": "Neukölln",
+      "country": "Germany"
+    },
+    "phone": "+49 30 53791578",
+    "phone_formatted": "030 53 79 15 78",
+    "email": "contact@twoandtwoberlin.com",
+    "website": "twoandtwoberlin.com"
+  },
+  "social_media": {
+    "instagram": "https://www.instagram.com/twoandtwocafe/",
+    "instagram_handle": "@twoandtwocafe",
+    "facebook": "https://de-de.facebook.com/twoandtwocafe/",
+    "tumblr": "https://twoandtwocafe.tumblr.com/"
+  },
+  "hours": {
+    "monday": "Closed",
+    "tuesday": "9:00 - 18:00",
+    "wednesday": "9:00 - 18:00",
+    "thursday": "9:00 - 18:00",
+    "friday": "9:00 - 18:00",
+    "saturday": "10:00 - 18:00",
+    "sunday": "10:00 - 18:00"
+  },
+  "features": [
+    "Authentic French pastries",
+    "Specialty coffee from Ethiopian beans",
+    "Japanese stationery & design objects",
+    "Cozy, intimate atmosphere",
+    "WiFi available",
+    "Laptop-friendly",
+    "Vegan options",
+    "Gluten-free options",
+    "Outdoor seating"
+  ],
+  "specialties": [
+    "Gluten-free gâteau au chocolat",
+    "Cannelés",
+    "Madeleines",
+    "French viennoiseries",
+    "Ethiopian Espresso Sidamo Coffee",
+    "Ippodo Tea Co. matcha",
+    "Japanese stationery brands"
+  ],
+  "location": {
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Two%20and%20Two&query_place_id=ChIJ1YRPkbBPqEcRNwFnC-SKaJw",
+    "coordinates": {
+      "lat": "52.4891",
+      "lng": "13.4248"
+    },
+    "getting_there": {
+      "public_transport": "U8 Schönleinstraße (5 min walk), M29 Bus",
+      "parking": "Limited street parking available"
+    }
+  }
+}

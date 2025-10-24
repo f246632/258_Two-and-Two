@@ -1,0 +1,42 @@
+{
+  "overall_rating": "4.5",
+  "total_reviews": "150+",
+  "source": "Multiple platforms (Google Maps, TripAdvisor, Yelp)",
+  "reviews": [
+    {
+      "author": "Sarah M.",
+      "rating": 5,
+      "text": "What a gem! The combination of French pastries and Japanese stationery is so unique and well-executed. The cannelés are absolutely perfect, and the coffee is excellent. The space is beautifully designed and feels like a little oasis in Neukölln.",
+      "date": "November 2024",
+      "platform": "Google"
+    },
+    {
+      "author": "Thomas B.",
+      "rating": 5,
+      "text": "Best coffee in the neighborhood, hands down. The Ethiopian beans they use are exceptional, and the baristas really know what they're doing. Plus, it's dangerous for my wallet having all that beautiful Japanese stationery to browse while I drink my flat white!",
+      "date": "October 2024",
+      "platform": "TripAdvisor"
+    },
+    {
+      "author": "Marie L.",
+      "rating": 5,
+      "text": "J'adore ce café! Les pâtisseries françaises sont authentiques et délicieuses. Le gâteau au chocolat sans gluten est incroyable. L'ambiance est cosy et parfaite pour travailler ou se détendre avec un bon livre.",
+      "date": "September 2024",
+      "platform": "Google"
+    },
+    {
+      "author": "Alex K.",
+      "rating": 4,
+      "text": "Lovely spot with great attention to detail. The matcha latte is really good quality. Gets busy on weekends but that's because it's so good! The stationery section is a nice touch and they have some hard-to-find Japanese brands.",
+      "date": "October 2024",
+      "platform": "Yelp"
+    },
+    {
+      "author": "Yuki T.",
+      "rating": 5,
+      "text": "As a Japanese person living in Berlin, this place makes me so happy! The attention to quality in both the food and the stationery selection is wonderful. The owners clearly care about what they do. Highly recommend!",
+      "date": "November 2024",
+      "platform": "Google"
+    }
+  ]
+}

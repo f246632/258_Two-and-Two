@@ -1,0 +1,119 @@
+{
+  "categories": [
+    {
+      "name": "Coffee & Espresso",
+      "items": [
+        {
+          "name": "Espresso",
+          "description": "Ethiopian Sidamo organic beans",
+          "price": "€2.50"
+        },
+        {
+          "name": "Café au Lait",
+          "description": "Classic French-style coffee with milk",
+          "price": "€3.50"
+        },
+        {
+          "name": "Flat White",
+          "description": "Smooth espresso with velvety microfoam",
+          "price": "€3.80"
+        },
+        {
+          "name": "Cappuccino",
+          "description": "Double shot espresso with steamed milk",
+          "price": "€3.50"
+        },
+        {
+          "name": "Filter Coffee",
+          "description": "Kalita ceramic pour-over",
+          "price": "€3.20"
+        }
+      ]
+    },
+    {
+      "name": "Japanese Tea",
+      "items": [
+        {
+          "name": "Matcha Latte",
+          "description": "Ippodo Tea Co. premium matcha",
+          "price": "€4.50"
+        },
+        {
+          "name": "Sencha",
+          "description": "Traditional Japanese green tea",
+          "price": "€3.80"
+        },
+        {
+          "name": "Hojicha",
+          "description": "Roasted green tea",
+          "price": "€3.80"
+        }
+      ]
+    },
+    {
+      "name": "French Pastries",
+      "items": [
+        {
+          "name": "Cannelé",
+          "description": "Traditional Bordeaux specialty with rum and vanilla",
+          "price": "€3.20"
+        },
+        {
+          "name": "Madeleine",
+          "description": "Classic French tea cake",
+          "price": "€2.80"
+        },
+        {
+          "name": "Gâteau au Chocolat",
+          "description": "Rich chocolate cake (gluten-free)",
+          "price": "€4.50"
+        },
+        {
+          "name": "Croissant",
+          "description": "Buttery French viennoiserie",
+          "price": "€2.50"
+        },
+        {
+          "name": "Pain au Chocolat",
+          "description": "Flaky pastry with dark chocolate",
+          "price": "€3.00"
+        }
+      ]
+    },
+    {
+      "name": "Sandwiches & Savory",
+      "items": [
+        {
+          "name": "French Sandwich",
+          "description": "Baguette with seasonal ingredients",
+          "price": "€6.50"
+        },
+        {
+          "name": "Mini Quiche",
+          "description": "Daily changing varieties",
+          "price": "€4.80"
+        },
+        {
+          "name": "Tartine",
+          "description": "Open-faced sandwich on sourdough",
+          "price": "€7.50"
+        }
+      ]
+    }
+  ],
+  "stationery": {
+    "description": "Curated selection of premium Japanese stationery and coffee equipment",
+    "brands": [
+      "Tombow",
+      "Ohto",
+      "United Bees",
+      "Midori",
+      "Hamada Notes",
+      "Delfonics",
+      "Mark's",
+      "Noda Horo",
+      "Kalita",
+      "Hario"
+    ]
+  }
+}
